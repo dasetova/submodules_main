@@ -1,0 +1,3 @@
+[submodule "apps/submodules_other"]
+	path = apps/submodules_other
+	url = https://github.com/dasetova/submodules_other
